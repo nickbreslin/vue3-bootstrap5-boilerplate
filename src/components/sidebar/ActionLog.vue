@@ -23,9 +23,9 @@
 <script>
 export default {
   name: "ActionSummary",
-  data: function() {
+  data: function () {
     return {
-      entries: []
+      entries: [],
     };
   },
   methods: {
@@ -33,13 +33,13 @@ export default {
       this.entries.push({
         id: this.entries.length + 1,
         time: "Today",
-        content: "+1 Rune of the Forest"
+        content: "+1 Rune of the Forest",
       });
     },
     clear() {
       this.entries = [];
-    }
-  }
+    },
+  },
 };
 </script>
 
