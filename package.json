@@ -15,19 +15,20 @@
       "email": "nickbreslin@gmail.com"
     }
   ],
-  "homepage": "https://github.com/nickbreslin/vue-bootstrap-boilerplate#readme",
+  "homepage": "https://github.com/nickbreslin/vue3-bootstrap5-boilerplate#readme",
   "bugs": {
-    "url": "https://github.com/nickbreslin/vue-bootstrap-boilerplate/issues"
+    "url": "https://github.com/nickbreslin/vue3-bootstrap5-boilerplate/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nickbreslin/vue-bootstrap-boilerplate.git"
+    "url": "https://github.com/nickbreslin/vue3-bootstrap5-boilerplate.git"
   },
   "funding": {
     "type": "patreon",
     "url": "https://www.patreon.com/slybootsstudio/"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
     "bootstrap-icons": "^1.5.0",
     "bootswatch": "^5.0.0",
@@ -48,6 +49,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-vue": "^7.9.0",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.3.0"
   }
 }
