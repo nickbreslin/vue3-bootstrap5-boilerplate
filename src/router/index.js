@@ -5,15 +5,15 @@ const routes = [
   {
     path: "/",
     name: "Main",
-    component: Main,
-  },
+    component: Main
+  }
 ];
 
 const router = createRouter({
   mode: "history",
   linkExactActiveClass: "active",
   history: createWebHistory(process.env.BASE_URL),
-  routes,
+  routes
 });
 
 export default router;

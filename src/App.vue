@@ -8,8 +8,8 @@
 
 <script>
 // @ is an alias to /src
-import TheHeader from "@/components/TheHeader.vue";
-import TheFooter from "@/components/TheFooter.vue";
+import TheHeader from "@/components/layout/TheHeader.vue";
+import TheFooter from "@/components/layout/TheFooter.vue";
 
 export default {
   name: "App",
