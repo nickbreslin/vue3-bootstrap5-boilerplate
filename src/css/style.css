@@ -1,9 +1,6 @@
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
+  /*font-family: 'Source Sans Pro', sans-serif;*/
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-.boxshadow {
-    box-shadow: rgba(0, 0, 0, 0.05) 1px 4px 1px;
 }
