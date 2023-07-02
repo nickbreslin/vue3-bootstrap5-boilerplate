@@ -1,7 +1,7 @@
 <template>
-  <h1>Main View</h1>
+  <div>Main View</div>
 </template>
-
+''
 <script>
 // @ is an alias to /src
 //import comp from "@/components/comp.vue";
